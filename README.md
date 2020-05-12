@@ -9,7 +9,7 @@ dockerLogs is a simple bash script to log multiple docker containers on the same
 ./dockerLogs.sh
 ```
 
-![](https://i.imgur.com/uGRhUlB.png)
+![](https://i.imgur.com/pjlaAlB.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
